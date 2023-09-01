@@ -1,4 +1,3 @@
-# my2-gude
-# Venkateswararao Gude
-###### Australia
-I like, the **Australia** mostly, because of its nature sports like(**Beaches**, animals, stadiums etc) 
+# venkateswararao Gude
+### Australia 
+Australia, the smallest continent and one of the **largest countries on Earth, lying between the Pacific and Indian oceans** in the Southern Hemisphere. Australia's capital is Canberra, located in the southeast between the **larger and more important economic and cultural centres of Sydney and Melbourne**.
