@@ -27,4 +27,14 @@ A game is a structured form of play, usually undertaken for entertainment or fun
 |Hockey       |Less compition game |     6-7                                |
 |Cricket      |Second famous game in the world| 10-15                           |
 |Kabaddi      |For improving physical strength and commitment| 4-7                      |
-|Baseball     |For more concentration|            4-5                      |         
+|Baseball     |For more concentration|            4-5                      |      
+
+---
+#Pithy Quotes for Scientists
+---
+
+>Equipped with his five senses, man explores the universe around him and calls the adventure Science. - *Edwin Powell Hubble*
+
+>You cannot teach a man anything; you can only help him discover it in himself. - *Galileo*
+
+---
