@@ -38,3 +38,14 @@ Pithy Quotes for Scientists
 >You cannot teach a man anything; you can only help him discover it in himself. - *Galileo*
 
 ---
+Code Snippet of code fencing
+
+> https://stackoverflow.com/questions/19290938/how-to-write-a-database-connection-in-javascript
+
+```
+var arLen=myArray.length;
+for ( var i=0, len=arLen; i<len; i++ ){
+  // do something with myArray[i]
+}
+```
+[click for source code](https://css-tricks.com/snippets/javascript/loop-without-wasteful-lookup/)
