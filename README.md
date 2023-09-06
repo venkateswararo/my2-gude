@@ -30,7 +30,7 @@ A game is a structured form of play, usually undertaken for entertainment or fun
 |Baseball     |For more concentration|            4-5                      |      
 
 ---
-#Pithy Quotes for Scientists
+Pithy Quotes for Scientists
 ---
 
 >Equipped with his five senses, man explores the universe around him and calls the adventure Science. - *Edwin Powell Hubble*
