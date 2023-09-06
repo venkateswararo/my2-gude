@@ -9,6 +9,11 @@ Australia, the smallest continent and one of the **largest countries on Earth, l
 2. GoSkydiving
 3. Marvel at the Iconic Sydney Opera House
 4. Visit to gabba stadium
+
+---
+
+Unorder list of food dishes
+
 * Lamingtons
 * Pavlova
 * Fairy Bread
@@ -48,4 +53,5 @@ for ( var i=0, len=arLen; i<len; i++ ){
   // do something with myArray[i]
 }
 ```
+
 [click for source code](https://css-tricks.com/snippets/javascript/loop-without-wasteful-lookup/)
