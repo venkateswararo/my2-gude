@@ -45,7 +45,9 @@ Pithy Quotes for Scientists
 ---
 Code Snippet of code fencing
 
-> https://stackoverflow.com/questions/19290938/how-to-write-a-database-connection-in-javascript
+How to setup DataBase connection for Javascript?
+
+[Source code](https://stackoverflow.com/questions/19290938/how-to-write-a-database-connection-in-javascript)
 
 ```
 var arLen=myArray.length;
