@@ -13,3 +13,18 @@ Australia, the smallest continent and one of the **largest countries on Earth, l
 * Pavlova
 * Fairy Bread
 
+**[Pagename_MyStats](MyStats.md)**
+**[Image](Pic.png)**
+
+---
+#Four kinds of Sports
+---
+
+A game is a structured form of play, usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered some of them are Hockey,Cricket,Kabaddi,Baseball etc.
+
+|Name of Sport|Reason for recommend|Average hours spend on sport in a week| 
+|:-----------:|:------------------:|:------------------------------------:|
+|Hockey       |Less compition game |     6-7                                |
+|Cricket      |Second famous game in the world| 10-15                           |
+|Kabaddi      |For improving physical strength and commitment| 4-7                      |
+|Baseball     |For more concentration|            4-5                      |         
