@@ -38,9 +38,9 @@ A game is a structured form of play, usually undertaken for entertainment or fun
 Pithy Quotes for Scientists
 ---
 
->Equipped with his five senses, man explores the universe around him and calls the adventure Science. - *Edwin Powell Hubble*
+>"Equipped with his five senses, man explores the universe around him and calls the adventure Science." - *Edwin Powell Hubble*
 
->You cannot teach a man anything; you can only help him discover it in himself. - *Galileo*
+>"You cannot teach a man anything; you can only help him discover it in himself." - *Galileo*
 
 ---
 Code Snippet of code fencing
